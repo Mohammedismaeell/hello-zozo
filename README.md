@@ -1,2 +1,2 @@
 # hello-zozo
-my first porogram
+my first porogram in C sharp
