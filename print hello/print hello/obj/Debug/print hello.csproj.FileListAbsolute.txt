@@ -1,0 +1,6 @@
+E:\C#\print hello\print hello\bin\Debug\print hello.exe.config
+E:\C#\print hello\print hello\bin\Debug\print hello.exe
+E:\C#\print hello\print hello\bin\Debug\print hello.pdb
+E:\C#\print hello\print hello\obj\Debug\print hello.csprojResolveAssemblyReference.cache
+E:\C#\print hello\print hello\obj\Debug\print hello.exe
+E:\C#\print hello\print hello\obj\Debug\print hello.pdb
